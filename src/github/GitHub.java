@@ -11,6 +11,11 @@ package github;
 public class GitHub {
     public static void main(String[] args) {
         System.out.println("Comenzamos el proyecto de GitHub en Java");
+        System.out.println("Reaizamos el primer cambio: ");
+        int a = 4;
+        int b = 6;
+        int suma = a + b;
+        System.out.println("La suma de a y b es: " + suma);
     }
     
 }
