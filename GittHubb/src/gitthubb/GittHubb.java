@@ -17,6 +17,8 @@ public class GittHubb {
         int b = 7;
         int suma = a + b;
         System.out.println("La suma de a y b es: " + suma);
+        int resta = a - b;
+        System.out.println("La resta de a y b es: "+ resta);
     }
     
 }
