@@ -19,6 +19,8 @@ public class GittHubb {
         System.out.println("La suma de a y b es: " + suma);
         int resta = a - b;
         System.out.println("La resta de a y b es: "+ resta);
+        int multiplicacion = a * b;
+        System.out.println("La multiplicación de a y b es: "+ multiplicacion);
     }
     
 }
